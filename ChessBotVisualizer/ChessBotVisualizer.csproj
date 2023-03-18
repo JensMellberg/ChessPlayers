@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ChessEngine">
+      <HintPath>..\..\ChessEngine\ChessEngine\bin\Debug\net6.0\ChessEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="ChessPlayerDLL">
+      <HintPath>..\..\ChessPlayer\ChessPlayerDLL\bin\Debug\netcoreapp3.1\ChessPlayerDLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

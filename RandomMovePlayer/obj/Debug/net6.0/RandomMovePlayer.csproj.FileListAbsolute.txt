@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\bin\Debug\net6.0\RandomMovePlayer.deps.json
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\bin\Debug\net6.0\RandomMovePlayer.dll
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\bin\Debug\net6.0\RandomMovePlayer.pdb
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\bin\Debug\net6.0\ChessPlayerDLL.dll
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\bin\Debug\net6.0\ChessPlayerDLL.pdb
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.csproj.CopyComplete
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.dll
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\refint\RandomMovePlayer.dll
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\RandomMovePlayer.pdb
+C:\Users\Camilla\source\repos\ChessPlayers\RandomMovePlayer\obj\Debug\net6.0\ref\RandomMovePlayer.dll
